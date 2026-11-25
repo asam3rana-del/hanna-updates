@@ -1,16 +1,16 @@
 {
   "android": {
-    "version": "1.0.56",
-    "build": 56,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-56/app-release.apk",
-    "sha256": "c60bd00d534ccfa43c6104ecb51228a22d4912e48584008dea7bfbc9ed464025",
+    "version": "1.0.58",
+    "build": 58,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-58/app-release.apk",
+    "sha256": "ddf32080eb49c95413598e2a6de99711155b3f6a93d342b48354900452f455ce",
     "notes": "Naye features aur behtari"
   },
   "windows": {
-    "version": "1.0.56",
-    "build": 56,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-56/Hanna-Installment-Setup.exe",
-    "sha256": "3b267f8c2731f006462411eeee1bf4c2e01987c59bdc1ac28c1642278becee4f",
+    "version": "1.0.58",
+    "build": 58,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-58/Hanna-Installment-Setup.exe",
+    "sha256": "b16ac14a5bcbd06c1744f06d465c15c46fb37ca96db22822fcceef8f6d9882fe",
     "notes": "Naye features aur behtari"
   },
   "min_build": 0
