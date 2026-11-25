@@ -1,0 +1,9 @@
+{
+  "android": {
+    "version": "1.0.0",
+    "build": 38,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-38/app-release.apk",
+    "notes": "Naye features"
+  },
+  "min_build": 0
+}
