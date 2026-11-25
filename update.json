@@ -1,16 +1,16 @@
 {
   "android": {
-    "version": "1.0.41",
-    "build": 41,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-41/app-release.apk",
-    "notes": "Khatam no,poora khatam,IMEI search,pc layout "
+    "version": "1.0.46",
+    "build": 46,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-46/app-release.apk",
+    "notes": "PC sync fix, kam reads likhein."
   },
   "windows": {
-    "version": "1.0.41",
-    "build": 41,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-41/Hanna-Installment-Setup.exe",
-    "sha256": "4c77f3134bb2ae032bbf929e27d92217e191e3688ef42cf60ded5d3b8e6e80d6",
-    "notes": "Khatam no,poora khatam,IMEI search,pc layout "
+    "version": "1.0.46",
+    "build": 46,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-46/Hanna-Installment-Setup.exe",
+    "sha256": "629a9a59aa53f22220022de019b246c0c127d5944ebc77af40e252a7de678f7a",
+    "notes": "PC sync fix, kam reads likhein."
   },
   "min_build": 0
 }
