@@ -1,17 +1,17 @@
 {
   "android": {
-    "version": "1.0.66",
-    "build": 66,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-66/app-release.apk",
-    "sha256": "8f5d8c209fb408f264eeab154110f797aa6e8b03d8bb6bb3610e8d0ffd376b71",
-    "notes": "Call k sath WhatsApp,search "
+    "version": "1.0.68",
+    "build": 68,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-68/app-release.apk",
+    "sha256": "dc3c8e1ce3c31504bb03167583f9fcc80ffb99bc36c7a1254f1067d575de22be",
+    "notes": "Naye features aur behtari"
   },
   "windows": {
-    "version": "1.0.66",
-    "build": 66,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-66/Hanna-Installment-Setup.exe",
-    "sha256": "3011358a5e44eed92f13a651fe4c3acbc176e465e78cc38ff9d1d84269fe577e",
-    "notes": "Call k sath WhatsApp,search "
+    "version": "1.0.68",
+    "build": 68,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-68/Hanna-Installment-Setup.exe",
+    "sha256": "a1a88a1abf78047589d6d35ef32b17647b56e0fd9a427c98d34b5b15b6e76776",
+    "notes": "Naye features aur behtari"
   },
   "min_build": 0
 }
