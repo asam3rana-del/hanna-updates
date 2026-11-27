@@ -1,17 +1,17 @@
 {
   "android": {
-    "version": "1.0.68",
-    "build": 68,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-68/app-release.apk",
-    "sha256": "dc3c8e1ce3c31504bb03167583f9fcc80ffb99bc36c7a1254f1067d575de22be",
-    "notes": "Naye features aur behtari"
+    "version": "1.0.71",
+    "build": 71,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-71/app-release.apk",
+    "sha256": "93c0a3891ebf0df1bb597386c241de52a71efe16f6f3c4b3bec8bfd47e0c3402",
+    "notes": "Qr code card,scan"
   },
   "windows": {
-    "version": "1.0.68",
-    "build": 68,
-    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-68/Hanna-Installment-Setup.exe",
-    "sha256": "a1a88a1abf78047589d6d35ef32b17647b56e0fd9a427c98d34b5b15b6e76776",
-    "notes": "Naye features aur behtari"
+    "version": "1.0.71",
+    "build": 71,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/build-71/Hanna-Installment-Setup.exe",
+    "sha256": "8e01fad56d16487c240929a40aed6ebe187158b888647aadb2412f3df4617ad6",
+    "notes": "Qr code card,scan"
   },
   "min_build": 0
 }
