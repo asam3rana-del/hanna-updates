@@ -1,0 +1,17 @@
+{
+  "android": {
+    "version": "1.0.736",
+    "build": 736,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/pos-build-736/app-release.apk",
+    "sha256": "9df218cdbdb6cc8562dad8ec0a14baa37a854b3e9e75d3935e7a1c60816a6874",
+    "notes": ""
+  },
+  "windows": {
+    "version": "1.0.736",
+    "build": 736,
+    "url": "https://github.com/asam3rana-del/hanna-updates/releases/download/pos-build-736/Hanna-POS-Setup.exe",
+    "sha256": "207fad4703ee23809b82d04a0cce114a173e3e0142cdd1d98827cb64dba9c9fc",
+    "notes": ""
+  },
+  "min_build": 0
+}
